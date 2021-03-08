@@ -1,0 +1,5 @@
+env/
+Laporan/
+debugging/
+
+*.pyc
